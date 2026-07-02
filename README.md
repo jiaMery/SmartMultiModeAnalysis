@@ -4,6 +4,7 @@ This is a Python project that allows you to:
 2. Intelligent Processing/Analysis Video using Amazon Bedrock
 3. Face Security Verification using Amazon Rekognition
 4. Raise an Alarm accroding to the bedrock analysis results by Amazon Bedrock Agent and SES
+
 For detailed deployment steps and additional information, please refer to our [blog post](https://aws.amazon.com/cn/blogs/china/building-a-smart-home-security-solution-based-on-amazon-bedrock-agents-and-rekognition/) on AWS.
 
 
